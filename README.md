@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Harry Awanda and I'm a Software Engineering Teacher, from SMK Negeri 4 Tanjungpinang
+Hi 👋! My name is Harry Awanda
 
 
 ## 🌐 Socials:
